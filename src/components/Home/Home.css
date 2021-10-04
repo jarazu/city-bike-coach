@@ -1,0 +1,17 @@
+.banner-image {
+    background-image: url("https://3ysui22kxkdnv72438g9qka9-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-31-at-2.42.34-PM.png");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+  .banner-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }

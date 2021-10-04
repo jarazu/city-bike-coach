@@ -1,0 +1,19 @@
+.custom-card{
+    border:none;
+    border-radius: unset;
+}
+.title{
+    color: #12789d;
+    padding: 5px;
+}
+.card-text{
+    color:#666869
+}
+.more-info{
+    color: #4ab678;
+    border-color: #4ab678;
+}
+
+.img{
+    height: 230px;
+}
